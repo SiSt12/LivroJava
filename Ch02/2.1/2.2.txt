@@ -1,5 +1,0 @@
-a) Falso, o programa ignora tudo depois do //
-b) Verdadeiro
-c) Falso, o java é case sensitive
-d) Falso, pode usar outros números que não inteiros
-e) Falso, eles seguem o padrão de expressões matemáticas
