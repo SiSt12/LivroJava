@@ -1,0 +1,8 @@
+a){, } 
+b)if
+c)//
+d) linhas vazias, tabulações e espaços
+e) Palavras chave
+f) main
+g) System.out.print, System.out.printf, System.out.println
+
