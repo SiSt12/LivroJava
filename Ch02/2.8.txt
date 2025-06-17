@@ -1,0 +1,5 @@
+a) System.out.print "Enter an integer: "
+
+b) a = b*c
+
+c) // executa um cálculo de exemplo de folha de pagamento

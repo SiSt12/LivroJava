@@ -1,0 +1,7 @@
+a) Verdadeiro
+
+b) Verdadeiro
+
+c) Falso, java respeita a ordem de expressoes aritmeticas
+
+d) Falso, h22 está correto
